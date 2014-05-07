@@ -2,6 +2,6 @@
 resources/*.aps
 
 projectfiles/*
-!projectfiles/QtCreator/TOX-Qt-GUI.pro
+!projectfiles/QtCreator/*.pro
 
 submodules/*
