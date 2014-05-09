@@ -13,6 +13,11 @@ Window {
     Rectangle {
         anchors.fill: parent
         color: 'grey'
+
+        Text {
+            anchors.centerIn: parent
+            text: engine.username
+        }
     }
 
     Engine {
